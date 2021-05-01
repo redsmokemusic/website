@@ -708,6 +708,12 @@ button {
 .copyright a:hover {
      color: #0c0f38;
 }
+.bocs {
+     height: 500px;
+ }
+ .a {
+      text-align: center;
+ }
 
 
 /** end footer **/
